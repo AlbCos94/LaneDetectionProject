@@ -1,0 +1,8 @@
+Project at University: Lane Detector using the Hough Transform
+
+Work Done:
+• Record of videos on a car to test the method.
+• Pre-processing of the images using Gausian Blur and Canny Edge Detection.
+• Own implementation of the Hough transform algorithm.
+• Plot and output representation on the video frames.
+• Developed completely in Matlab
